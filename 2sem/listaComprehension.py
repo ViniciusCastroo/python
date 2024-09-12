@@ -21,3 +21,6 @@ coluna = int(input("Digite quantas colunas: "))
 lista5 = [int(input(":")) for i in range(coluna) for i in range(linha)]
 
 print(lista5)
+
+lista6 = lambda c, l: [int(input(":")) for i in range(c) for i in range(l)]
+print(lista6(1, 2))
