@@ -12,6 +12,7 @@ else:
     print("Cidade nao existente no dicionario")
 print("cidade" in dic)
 '''
+'''
 totalCp = 3
 Pedro = {}
 while totalCp != 0:
@@ -20,3 +21,5 @@ while totalCp != 0:
     Pedro[cp] = notas
     totalCp -= 1
 print(Pedro)
+'''
+
