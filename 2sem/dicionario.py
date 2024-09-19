@@ -22,4 +22,4 @@ while totalCp != 0:
     totalCp -= 1
 print(Pedro)
 '''
-
+#.pop remove coisas do dicionario
